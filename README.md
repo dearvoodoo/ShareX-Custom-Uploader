@@ -2,7 +2,7 @@
 Script pour upload avec ShareX sur votre propre Hébergeur.
 
 # Installation
-Premièrement vous uploadez le contenue dans le 'src' de votre site.
+Premièrement vous uploadez le contenu dans le 'src' de votre site.
 
 Après on passe à la configuration du fichier upload.php. Il y a quelques informations à modifier.
 
