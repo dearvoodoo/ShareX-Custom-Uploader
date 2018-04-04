@@ -29,8 +29,8 @@ Nous devons maintenant faire la configuration de ShareX pour votre Uploader
     - user, c'est ici que vous devez mettre la clé inscrite plus tôt dans le fichier upload.php
 6. La configuration est terminée, tester votre uploader
 ```
-![Aperçu en image de la configuration de ShareX](https://imgur.com/WAktc05)
+![Aperçu en image de la configuration de ShareX](https://i.imgur.com/WAktc05.png)
 
 # Aperçu de Directory Lister
-![Aperçu Directory Lister](https://imgur.com/3XGMIrt)
-![Directory Lister](http://www.directorylister.com)
+![Aperçu Directory Lister](https://i.imgur.com/3XGMIrt.png)
+[Directory Lister](http://www.directorylister.com)
