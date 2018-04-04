@@ -34,3 +34,4 @@ Nous devons maintenant faire la configuration de ShareX pour votre Uploader
 # Aperçu de Directory Lister
 ![Aperçu Directory Lister](https://i.imgur.com/3XGMIrt.png)
 [Directory Lister](http://www.directorylister.com)
+(Déjà dans le contenu)
